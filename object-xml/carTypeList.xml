@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<carTypeList>
+    <carTypeListInfo carTypeListInfoId="1">
+		<id>1</id>
+       	<title>smart fortwo</title>
+        <imgpath></imgpath>
+		<parentid>0</parentid>
+    </carTypeListInfo>
+	<carTypeListInfo carTypeListInfoId="2">
+		<id>2</id>
+       	<title>1.0L 硬顶灵动版</title>
+        <imgpath></imgpath>
+		<parentid>1</parentid>
+		<url>webgl/carconfigurer/carconfig_smart</url>
+    </carTypeListInfo>
+	<carTypeListInfo carTypeListInfoId="3">
+		<id>3</id>
+       	<title>1.0L 硬顶激情</title>
+        <imgpath></imgpath>
+		<parentid>1</parentid>
+    </carTypeListInfo>
+	<carTypeListInfo carTypeListInfoId="4">
+		<id>4</id>
+       	<title>1.0L 硬顶挚爱特别版</title>
+        <imgpath></imgpath>
+		<parentid>1</parentid>
+    </carTypeListInfo>
+	<carTypeListInfo carTypeListInfoId="5">
+		<id>5</id>
+       	<title>1.0L 硬顶新声特别版</title>
+        <imgpath></imgpath>
+		<parentid>1</parentid>
+    </carTypeListInfo>
+	<carTypeListInfo carTypeListInfoId="6">
+		<id>6</id>
+       	<title>0.9T 硬顶先锋版</title>
+        <imgpath></imgpath>
+		<parentid>1</parentid>
+    </carTypeListInfo>
+	<carTypeListInfo carTypeListInfoId="7">
+		<id>7</id>
+       	<title>0.9T 硬顶极致版</title>
+        <imgpath></imgpath>
+		<parentid>1</parentid>
+    </carTypeListInfo>
+	<carTypeListInfo carTypeListInfoId="8">
+		<id>8</id>
+       	<title>0.9T 1.0L 敞篷激情版</title>
+        <imgpath></imgpath>
+		<parentid>1</parentid>
+    </carTypeListInfo>
+	<carTypeListInfo carTypeListInfoId="9">
+		<id>9</id>
+       	<title>0.9T 敞篷先锋版</title>
+        <imgpath></imgpath>
+		<parentid>1</parentid>
+    </carTypeListInfo>
+	<carTypeListInfo carTypeListInfoId="10">
+		<id>10</id>
+       	<title>0.9T 敞篷极致版</title>
+        <imgpath></imgpath>
+		<parentid>1</parentid>
+    </carTypeListInfo>
+	
+	<carTypeListInfo carTypeListInfoId="11">
+		<id>11</id>
+       	<title>卡罗拉</title>
+        <imgpath></imgpath>
+		<parentid>0</parentid>
+    </carTypeListInfo>
+	<carTypeListInfo carTypeListInfoId="12">
+		<id>12</id>
+       	<title>1.6L 手动 GL</title>
+        <imgpath></imgpath>
+		<parentid>11</parentid>
+		<url>webgl/carconfigurer/carconfig</url>
+    </carTypeListInfo>
+	<carTypeListInfo carTypeListInfoId="13">
+		<id>13</id>
+       	<title>1.6L CVT GL</title>
+        <imgpath></imgpath>
+		<parentid>11</parentid>
+    </carTypeListInfo>
+	<carTypeListInfo carTypeListInfoId="14">
+		<id>14</id>
+       	<title>1.2L CVT GL</title>
+        <imgpath></imgpath>
+		<parentid>11</parentid>
+    </carTypeListInfo>
+	<carTypeListInfo carTypeListInfoId="15">
+		<id>15</id>
+       	<title>1.2T 手动 GL-i</title>
+        <imgpath></imgpath>
+		<parentid>11</parentid>
+    </carTypeListInfo>
+	<carTypeListInfo carTypeListInfoId="16">
+		<id>16</id>
+       	<title>1.2T 手动 GL-i 真皮版</title>
+        <imgpath></imgpath>
+		<parentid>11</parentid>
+    </carTypeListInfo>
+	<carTypeListInfo carTypeListInfoId="17">
+		<id>17</id>
+       	<title>1.2T CVT GL-i</title>
+        <imgpath></imgpath>
+		<parentid>11</parentid>
+    </carTypeListInfo>
+	<carTypeListInfo carTypeListInfoId="18">
+		<id>18</id>
+       	<title>1.2T CVT GL-i 真皮</title>
+        <imgpath></imgpath>
+		<parentid>11</parentid>
+    </carTypeListInfo>
+	<carTypeListInfo carTypeListInfoId="19">
+		<id>19</id>
+       	<title>1.2T CVT GLX-i</title>
+        <imgpath></imgpath>
+		<parentid>11</parentid>
+    </carTypeListInfo>
+	<carTypeListInfo carTypeListInfoId="20">
+		<id>20</id>
+       	<title>1.8L CVT GLX-i</title>
+        <imgpath></imgpath>
+		<parentid>11</parentid>
+    </carTypeListInfo>
+	<carTypeListInfo carTypeListInfoId="21">
+		<id>21</id>
+       	<title>1.8L CVT 至高版</title>
+        <imgpath></imgpath>
+		<parentid>11</parentid>
+    </carTypeListInfo>
+	<carTypeListInfo carTypeListInfoId="22">
+		<id>22</id>
+       	<title>双擎 1.8L CVT 先锋版</title>
+        <imgpath></imgpath>
+		<parentid>11</parentid>
+    </carTypeListInfo>
+	<carTypeListInfo carTypeListInfoId="23">
+		<id>23</id>
+       	<title>双擎 1.8L CVT 领先版</title>
+        <imgpath></imgpath>
+		<parentid>11</parentid>
+    </carTypeListInfo>
+	<carTypeListInfo carTypeListInfoId="24">
+		<id>24</id>
+       	<title>双擎 1.8L CVT 精英版</title>
+        <imgpath></imgpath>
+		<parentid>11</parentid>
+    </carTypeListInfo>
+	<carTypeListInfo carTypeListInfoId="25">
+		<id>25</id>
+       	<title>双擎 1.8L CVT 豪华版</title>
+        <imgpath></imgpath>
+		<parentid>11</parentid>
+    </carTypeListInfo>
+	<carTypeListInfo carTypeListInfoId="26">
+		<id>26</id>
+       	<title>双擎 1.8L CVT旗舰版</title>
+        <imgpath></imgpath>
+		<parentid>11</parentid>
+    </carTypeListInfo>
+	
+</carTypeList>

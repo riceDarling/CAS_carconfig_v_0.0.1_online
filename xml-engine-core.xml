@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<engine-Object>
+    <carInfo carId="1">
+       	<id>1</id>
+        <name>carPaint</name>
+    </carInfo>
+    <carInfo carId="2">
+       	<id>2</id>
+        <name>carCamera</name>
+    </carInfo>
+	<carInfo carId="3">
+       	<id>3</id>
+        <name>carTypeList</name>
+    </carInfo>
+</engine-Object>

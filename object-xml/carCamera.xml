@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<carCamera>
+    <carCameraInfo carCameraInfoId="1">
+       	<type>camera</type>
+        <eye>284,-444,-379</eye>
+		<fov>60</fov>
+        <iconpath></iconpath>
+    </carCameraInfo>
+    <carCameraInfo carCameraInfoId="2">
+       	<type>camera</type>
+        <eye>344,121,-476</eye>
+		<fov>60</fov>
+        <iconpath></iconpath>
+    </carCameraInfo>
+	<carCameraInfo carCameraInfoId="3">
+       	<type>camera</type>
+        <eye>-297,145,-498</eye>
+		<fov>60</fov>
+        <iconpath></iconpath>
+    </carCameraInfo>
+</carCamera>

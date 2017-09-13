@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<carPaint>
+    <carPaintInfo carPaintInfoId="1">
+       	<type>color</type>
+        <color>#020202</color>
+		<metallic>0.32</metallic>
+		<roughness>0.052</roughness>
+		<name>黑云母</name>
+    </carPaintInfo>
+	<carPaintInfo carPaintInfoId="2">
+       	<type>color</type>
+        <color>#250b01</color>
+		<metallic>0.54</metallic>
+		<roughness>0.063</roughness>
+		<name>深棕云母金属</name>
+    </carPaintInfo>
+	<carPaintInfo carPaintInfoId="3">
+       	<type>color</type>
+        <color>#b98d5b</color>
+		<metallic>0.28</metallic>
+		<roughness>0.063</roughness>
+		<name>浅黄云母金属</name>
+    </carPaintInfo>
+	<carPaintInfo carPaintInfoId="4">
+       	<type>color</type>
+        <color>#3e0000</color>
+		<metallic>0.41</metallic>
+		<roughness>0.062</roughness>
+		<name>红云母金属</name>
+    </carPaintInfo>
+	<carPaintInfo carPaintInfoId="5">
+       	<type>color</type>
+        <color>#645239</color>
+		<metallic>0.32</metallic>
+		<roughness>0.062</roughness>
+		<name>铂青铜金属</name>
+    </carPaintInfo>
+	<carPaintInfo carPaintInfoId="6">
+       	<type>color</type>
+        <color>#756853</color>
+		<metallic>0.33</metallic>
+		<roughness>0.051</roughness>
+		<name>银金属</name>
+    </carPaintInfo>
+	<carPaintInfo carPaintInfoId="7">
+       	<type>color</type>
+        <color>#f5e4cb</color>
+		<metallic>0.21</metallic>
+		<roughness>0.1</roughness>
+		<name>珍珠白</name>
+    </carPaintInfo>
+	<carPaintInfo carPaintInfoId="8">
+       	<type>color</type>
+        <color>#ffffff</color>
+		<metallic>0</metallic>
+		<roughness>0.1</roughness>
+		<name>超级白</name>
+    </carPaintInfo>
+</carPaint>
